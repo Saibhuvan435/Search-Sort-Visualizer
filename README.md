@@ -25,10 +25,10 @@ Welcome to the Search and Sort Visualizer! This application allows you to visual
 
 To get started with the Search and Sort Visualizer, follow these steps:
 
-1. Clone the project repository: `git clone https://github.com/thogarunikhil/Search_Sort_Visualizer.git`
-2. Navigate to the project directory: `cd Search_Sort_Visualizer`
+1. Clone the project repository: `git clone https://github.com/Saibhuvan435/Search-Sort-Visualizer.git`
+2. Navigate to the project directory: `cd Search-Sort-Visualizer`
 3. Install the required dependencies: `pip install pygame random queue`
-4. Run the python file: `python myProj.py`
+4. Run the python file: `python main.py`
 
 ## 3. Supported Algorithms
 
