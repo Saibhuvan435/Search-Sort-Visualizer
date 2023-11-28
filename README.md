@@ -5,7 +5,9 @@ Welcome to the Search and Sort Visualizer! This application allows you to visual
 2. Getting Started
 3. Supported Algorithms
 4. Usage
+
 5.Customization
+
 6.Contributions
 # 1. Features
 Visualize various searching and sorting algorithms.
